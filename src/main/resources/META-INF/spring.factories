@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.rcl.aspectlogspringbootstarter.hello.HelloServiceConfiguration,\
+com.rcl.aspectlogspringbootstarter.log.MyLogAutoConfiguration,\
+  com.rcl.aspectlogspringbootstarter.aspectlog.AspectAutoConfiguration
